@@ -44,6 +44,19 @@ $ kubectl port-forward svc/prometheus-stack-grafana -n monitoring 3000:80 &
 
      deploy a voting app and check it data using grafana under kubernetes network workloads on dashboard.
 
+![Picture1](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture1.png)
+
+![Picture2](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture2.png)
+
+![Picture3](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture3.png)
+
+![Picture4](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture4.png) 
+
+![Picture5](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture5.png) 
+
+![Picture6](https://raw.githubusercontent.com/nhanand/k8s-kind-voting-app-MONITORING-P6/main/images/Picture6.png)
+
+
 
  
 
